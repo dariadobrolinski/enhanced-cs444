@@ -1,0 +1,14 @@
+{
+  "name": "cs444-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A readable mirror of the CS444 course website: scrapes the professor's color-coded page and syllabus, and renders it as a tabbed site with a schedule view.",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "pdf-parse": "^1.1.1"
+  }
+}

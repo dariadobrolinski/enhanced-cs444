@@ -1,0 +1,456 @@
+{
+  "term": "Fall 2026",
+  "course": "CS444: Introduction to Operating Systems",
+  "syllabusRevision": "20 Sep 2026 Rev1",
+  "note": "Hand-transcribed from the syllabus schedule table (p.7-9 of syll444f26sep20POSTED.pdf). The scraper flags on the site if a newer syllabus PDF is posted so this can be re-checked, since the table layout is too irregular to auto-parse reliably.",
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "classNum": 1,
+          "date": "2026-09-08",
+          "label": "Tue Sep 8",
+          "postDue": ["hw1 posted"],
+          "reading": "444 Website, Syllabus, ch1 p1-81",
+          "topic": "ch1: Introduction, client-server",
+          "activities": [
+            "Class website & Syllabus: view and read",
+            "Lecture 1: ch1 T&B slides 1-22, 34-41",
+            "hw1: view and read, demo 'mkdir hw1'",
+            "IC On-server: S1 login (register at portal first), 'ls -la', pwd, cd cs444, scp/cp -p",
+            "IC Handwritten: D1 draw client-server Hpath"
+          ]
+        },
+        {
+          "classNum": 2,
+          "date": "2026-09-10",
+          "label": "Thu Sep 10",
+          "postDue": ["H1-1 dir due by class"],
+          "reading": "Huffman, Emacs, ASCII chart",
+          "topic": "Huffman slides, C code",
+          "activities": [
+            "Lecture 2: Huffman slides, grammar",
+            "hw1: view and read",
+            "IC On-server: S2 CLI shell, ps -eF, ps -U, top",
+            "IC On-server: E1 Emacs data, hexdump -C",
+            "IC Handwritten: D2 draw simple Huff tree",
+            "IC Handwritten/On-server: H1-2 huff"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "classNum": 3,
+          "date": "2026-09-15",
+          "label": "Tue Sep 15",
+          "postDue": ["proj1 posted", "hw1 due", "H1-3 due midnight", "C1-1 dir due by class", "Add/drop ends"],
+          "reading": "ch12, ch1M, K&R, ApA",
+          "topic": "ch1: Introduction, ch12: Design OS",
+          "activities": [
+            "Lecture 3: ch12, grammar, ch1M",
+            "proj1: view and read",
+            "IC On-server: S3 ls -la hw1, shell",
+            "IC On-server: E2 Emacs <file>.c, comment grammar, gcc, run",
+            "IC Handwritten: C1-2 <reqd-start-proj1>.c"
+          ]
+        },
+        {
+          "classNum": 4,
+          "date": "2026-09-17",
+          "label": "Thu Sep 17",
+          "postDue": [],
+          "reading": "ch1, ch2, K&R pointers, ApB",
+          "topic": "ch1: Introduction, ch2: Processes, threads",
+          "activities": [
+            "Lecture 4: ch1 sl.23-33, ch2",
+            "proj1: read",
+            "IC On-server: S4 show processes",
+            "IC On-server: E3 emacs f.c print pointers",
+            "IC Handwritten/On-server: G1 endian.c grammar"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "classNum": 5,
+          "date": "2026-09-22",
+          "label": "Tue Sep 22",
+          "postDue": [],
+          "reading": "ch2, ch2M includes, main.c",
+          "topic": "ch2: Scheduling",
+          "activities": [
+            "Lecture 5: ch2, ch2M",
+            "IC On-server: M1 MINIX3",
+            "IC On-server: U1 photo C1 readMe, upload",
+            "IC On-server: E4 Emacs f",
+            "IC Handwritten: D3 timeline diagram"
+          ]
+        },
+        {
+          "classNum": 6,
+          "date": "2026-09-24",
+          "label": "Thu Sep 24",
+          "postDue": [],
+          "reading": "ch3",
+          "topic": "ch1: Introduction, ch3: Memory",
+          "activities": [
+            "Lecture 6: ch3, ch3M",
+            "IC On-server: S5 passwordless login",
+            "IC Handwritten/On-server: G2",
+            "IC Handwritten: D4 draw memory"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "classNum": 7,
+          "date": "2026-09-29",
+          "label": "Tue Sep 29",
+          "postDue": ["proj1 due", "hw2 posted", "C1-4 due by class"],
+          "reading": "ch3, ch4M",
+          "topic": "ch1: pointers, ch3: Memory",
+          "activities": [
+            "Lecture 7: ch3, read hw2",
+            "IC On-server: M2 MINIX3",
+            "IC On-server: S6 output formats",
+            "IC On-server: E5 Emacs file",
+            "IC Handwritten: C1-3 collect readMe proj1",
+            "IC Handwritten: D5 draw memory 2"
+          ]
+        },
+        {
+          "classNum": 8,
+          "date": "2026-10-01",
+          "label": "Thu Oct 1",
+          "postDue": ["H2-1 dir due by class"],
+          "reading": "ch1, ch4",
+          "topic": "ch1: Introduction, ch4: file systems",
+          "activities": [
+            "Lecture 8: ch1, ch4, read hw2",
+            "IC On-server: E6 Emacs file",
+            "IC Handwritten/On-server: H2-2 hw2.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "classNum": 9,
+          "date": "2026-10-06",
+          "label": "Tue Oct 6",
+          "postDue": ["proj2 posted", "H2-3 due midnight", "C2-1 dir due by class"],
+          "reading": "ch4, ch5M",
+          "topic": "ch1: Introduction, ch4: File systems",
+          "activities": [
+            "Lecture 9: ch4, ch5M, read proj2",
+            "IC On-server: M3 MINIX3",
+            "IC On-server: E7 Emacs look MINIX3",
+            "IC Handwritten: C2-2 <reqd-start-proj2>.c"
+          ]
+        },
+        {
+          "classNum": 10,
+          "date": "2026-10-08",
+          "label": "Thu Oct 8",
+          "postDue": ["Fri Oct 9 - N/A grade due"],
+          "reading": "ch5",
+          "topic": "ch5: I/O",
+          "activities": [
+            "Lecture 10: ch5, read proj2",
+            "IC On-server: E8 Emacs look at shell, test",
+            "IC Handwritten/On-Server: G3",
+            "IC Handwritten: D6 lost print job"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "classNum": null,
+          "date": "2026-10-12",
+          "label": "Mon Oct 12",
+          "postDue": ["Holiday"],
+          "reading": null,
+          "topic": "Holiday - no class",
+          "activities": []
+        },
+        {
+          "classNum": 11,
+          "date": "2026-10-13",
+          "label": "Tue Oct 13",
+          "postDue": [],
+          "reading": "ch5, ch3M",
+          "topic": "ch5, ch3M",
+          "activities": [
+            "Lecture 11: ch5 I/O, raid, nibbles",
+            "IC On-server: M4 MINIX3",
+            "IC On-server: U2 photo C2 readMe, upload",
+            "IC Handwritten/On-server: G4",
+            "IC Handwritten: D7"
+          ]
+        },
+        {
+          "classNum": 12,
+          "date": "2026-10-15",
+          "label": "Thu Oct 15",
+          "postDue": ["review posted"],
+          "reading": "Popek",
+          "topic": "h7.11 VMware",
+          "activities": [
+            "Lecture 12: ch1, ch7.11, read review",
+            "IC Handwritten/On-server: G5",
+            "IC Handwritten: D8 IBM virt, early pc virt"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "classNum": 13,
+          "date": "2026-10-20",
+          "label": "Tue Oct 20",
+          "postDue": ["proj2 due", "proj3 posted", "C2-4 due by class", "C3-1 dir due by class", "test1 signup"],
+          "reading": "ch1, Hamming",
+          "topic": "ch1: Introduction, Hamming",
+          "activities": [
+            "Lecture 13: Hamming, raid, nib., read proj3",
+            "IC On-server: E9",
+            "IC Handwritten: C2-3 collect readMe page",
+            "IC Handwritten: C3-2 <reqd-start-proj3>.c",
+            "IC Handwritten: D9 Hamming"
+          ]
+        },
+        {
+          "classNum": 14,
+          "date": "2026-10-22",
+          "label": "Thu Oct 22",
+          "postDue": [],
+          "reading": "ch1-5,12,C",
+          "topic": "Review session",
+          "activities": ["Lecture 14: Review, sample problems"]
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "classNum": null,
+          "date": "2026-10-26",
+          "label": "Mon-Wed Oct 26-28 (no class Tues)",
+          "postDue": [],
+          "reading": "ch1-5,12,C testing",
+          "topic": "Test 1 (Ch1-5, 12, C code)",
+          "activities": ["Test1: Mon-Wed, 8am-8pm, students come two at a time, about every 30 minutes"]
+        },
+        {
+          "classNum": 15,
+          "date": "2026-10-29",
+          "label": "Thu Oct 29",
+          "postDue": [],
+          "reading": "ch6, ch3M",
+          "topic": "Deadlock",
+          "activities": [
+            "Lecture 15: ch6, read proj3",
+            "IC Handwritten/On-server: G6 code fr hw2old",
+            "IC Handwritten: D10"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "classNum": 16,
+          "date": "2026-11-03",
+          "label": "Tue Nov 3",
+          "postDue": [],
+          "reading": "ch7",
+          "topic": "ch1, ch7, Virtualization",
+          "activities": ["Lecture 16: ch7 to ch7.10", "IC On-server: M5 MINIX3"]
+        },
+        {
+          "classNum": 17,
+          "date": "2026-11-05",
+          "label": "Thu Nov 5",
+          "postDue": [],
+          "reading": "ch8",
+          "topic": "ch8: multi-processor systems",
+          "activities": [
+            "Lecture 17: ch8",
+            "IC On-server: G8 access another server",
+            "IC Handwritten: D12 world internet"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "classNum": 18,
+          "date": "2026-11-10",
+          "label": "Tue Nov 10",
+          "postDue": ["hw3 posted", "proj3 due", "C3-4 due by class", "Add to canvas: 5 dropped assignments"],
+          "reading": "queueing, threads",
+          "topic": "queueing, posix threads",
+          "activities": [
+            "Lecture 18: queuing slides, pthreads slides",
+            "Video: wiring servers featuring Tom Mullaly",
+            "IC Handwritten: C3-3 collect readMe page",
+            "Field trip, last 25 mins, CS server room"
+          ]
+        },
+        {
+          "classNum": null,
+          "date": "2026-11-11",
+          "label": "Wed Nov 11",
+          "postDue": ["Holiday"],
+          "reading": null,
+          "topic": "Holiday - no class",
+          "activities": []
+        },
+        {
+          "classNum": 19,
+          "date": "2026-11-12",
+          "label": "Thu Nov 12",
+          "postDue": ["H3-1 dir due by class"],
+          "reading": "ch9",
+          "topic": "ch9: Security",
+          "activities": [
+            "Lecture 19: ch9",
+            "IC On-server: M6 MINIX3",
+            "IC Handwritten/On-server: H3-2 hw3.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "classNum": 20,
+          "date": "2026-11-17",
+          "label": "Tue Nov 17",
+          "postDue": ["hw3 due", "proj4 posted", "H3-3 due midnight", "C4-1 dir due by class"],
+          "reading": "ch1, ch10",
+          "topic": "ch10: Unix, Linux, Android",
+          "activities": [
+            "Lecture 20: ch10, read proj4",
+            "Video: Patrick Brady, Android design",
+            "IC On-server: G9",
+            "IC Handwritten: C4-2 <reqd-start-proj4>.c"
+          ]
+        },
+        {
+          "classNum": 21,
+          "date": "2026-11-19",
+          "label": "Thu Nov 19",
+          "postDue": ["Pass/Fail/Withdraw deadline"],
+          "reading": "ch10.8",
+          "topic": "ch1: Introduction, ch10.8: Android",
+          "activities": [
+            "Lecture 21: ch1, ch10.8, read proj4",
+            "IC On-server: G10 access Android code",
+            "IC Handwritten: D13 Android layers"
+          ]
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "classNum": 22,
+          "date": "2026-11-24",
+          "label": "Tue Nov 24",
+          "postDue": ["review posted"],
+          "reading": "ch11",
+          "topic": "ch1, ch11: Windows",
+          "activities": [
+            "Lecture 22: ch1, ch11 Windows, ch5.6",
+            "IC On-server: U4 photo C4 readMe, upload",
+            "IC Handwritten/On-server: G11",
+            "IC Handwritten: D14 Windows layers"
+          ]
+        },
+        {
+          "classNum": null,
+          "date": "2026-11-26",
+          "label": "Thu Nov 26 - Sun Nov 29",
+          "postDue": ["Holiday"],
+          "reading": null,
+          "topic": "Holiday - no class",
+          "activities": []
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "classNum": 23,
+          "date": "2026-12-01",
+          "label": "Tue Dec 1",
+          "postDue": ["proj4 due", "C4-4 due by class", "test2 signup"],
+          "reading": "ch11",
+          "topic": "ch11: Windows",
+          "activities": [
+            "Lecture 23: ch11 Windows",
+            "IC Handwritten/On-server: G12",
+            "IC Handwritten: C4-3 collect readMe page"
+          ]
+        },
+        {
+          "classNum": 24,
+          "date": "2026-12-03",
+          "label": "Thu Dec 3",
+          "postDue": [],
+          "reading": "ch6-11, C",
+          "topic": "Review session",
+          "activities": ["Lecture 24: Review, sample problems"]
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "classNum": null,
+          "date": "2026-12-09",
+          "label": "Mon-Wed Dec 9 (no class Tues)",
+          "postDue": [],
+          "reading": "ch6-11, C testing",
+          "topic": "Test 2 (Ch6-11, C code)",
+          "activities": ["Test2: Mon-Wed, 8am-8pm, individual, about every 20 minutes"]
+        },
+        {
+          "classNum": 25,
+          "date": "2026-12-10",
+          "label": "Thu Dec 10",
+          "postDue": [],
+          "reading": "to be posted",
+          "topic": "special topic and the Cloud",
+          "activities": ["Lecture 25: special topic, last class"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "scrapedAt": "2026-09-21T20:04:18.404Z",
+  "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
+  "items": [
+    {
+      "id": "59d78873c1",
+      "text": "Syllabus reposted 20 Sep 2026 to correct Attendance weight in grading",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep20POSTED.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "syllabus",
+      "minor": false,
+      "order": 0
+    },
+    {
+      "id": "a2688365e4",
+      "text": "hw0",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/hw0_f26.pdf",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "homework",
+      "minor": false,
+      "order": 1
+    },
+    {
+      "id": "308f067c3c",
+      "text": "Cool Cover ACM Magazine",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/CoolCovACM.jpg",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 2
+    },
+    {
+      "id": "d2e54b78a9",
+      "text": "crude_wc.c used in hw0",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/crude_wc.c",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "homework",
+      "minor": false,
+      "order": 3
+    },
+    {
+      "id": "8197d5d67d",
+      "text": "Lesson plan, Week1, Day1",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/444f26-LPWk01.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 4
+    },
+    {
+      "id": "e0c4a7a384",
+      "text": "LECTURE Tanenbaum and Bos, slides for ch1 - INTRODUCTION, slides 1-22, 34-41",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch1.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 5
+    },
+    {
+      "id": "b57cbff963",
+      "text": "wikipedia 64-bit word machines",
+      "href": "https://en.wikipedia.org/wiki/64-bit_computing",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 6
+    },
+    {
+      "id": "bb4fe47a3c",
+      "text": "wikipedia client server",
+      "href": "https://en.wikipedia.org/wiki/Client%E2%80%93server_model",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 7
+    },
+    {
+      "id": "9dbaa1f8a6",
+      "text": "wikipedia all protocols by level",
+      "href": "https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#Layer_1_(physical_layer)",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 8
+    },
+    {
+      "id": "1be9fcd226",
+      "text": "wikipedia 64 bit and earlier x86",
+      "href": "https://en.wikipedia.org/wiki/X86#x86_registers",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 9
+    },
+    {
+      "id": "d46c0833de",
+      "text": "cat z0.txt",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/z0.txt",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": true,
+      "order": 10
+    },
+    {
+      "id": "bd76770dcd",
+      "text": "cat z1.txt, ls -la, hexdump -C z1.txt, w, top, ps -eF",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/z1.txt",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": true,
+      "order": 11
+    },
+    {
+      "id": "62264b34f2",
+      "text": "LECTURE David Huffman, 1952, slides for implementation of Huffman code for file compression in C",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/huffman.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 12
+    },
+    {
+      "id": "26fcc3a0b5",
+      "text": "American Standard Code for Information Interchange (ASCII) chart",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ASCII.pdf",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 13
+    },
+    {
+      "id": "4be29a8751",
+      "text": "wikipedia article on unicode and extended code sets",
+      "href": "https://en.wikipedia.org/wiki/List_of_Unicode_characters",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 14
+    },
+    {
+      "id": "b313a1d599",
+      "text": "wikipedia article on bitwise operations",
+      "href": "https://en.wikipedia.org/wiki/Bitwise_operation",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 15
+    },
+    {
+      "id": "7997a4177d",
+      "text": "sep14 reposted hw1 with subparts due sep15, sep17 and sep19; binary ops added and corrections to Q5, Q6 and duedates H1-2",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/hw1-corrected2-f26POSTED.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "homework",
+      "minor": false,
+      "order": 16
+    },
+    {
+      "id": "3385468a82",
+      "text": "hw1 DELAYED posted Tues 8 Sept - NOW due Wed 16 Sept - submit to course directory - Q1 a-d 5 pts each, Q2 a many drawings 70 pts, b 10 pts",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/hw1.pdf",
+      "color": "#990000",
+      "tone": "stale",
+      "toneLabel": "Superseded (older/delayed version)",
+      "category": "homework",
+      "minor": false,
+      "order": 17
+    },
+    {
+      "id": "1dd3ceaa42",
+      "text": "hw1 posted Tues 8 Sept - due Mon 14 Sept - submit to course directory - Q1 a-d 5 pts each, Q2 a many drawings 70 pts, b 10 pts",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/hw1.pdf",
+      "color": "#990099",
+      "tone": "stale",
+      "toneLabel": "Superseded (older version)",
+      "category": "homework",
+      "minor": false,
+      "order": 18
+    },
+    {
+      "id": "6fd93b47ff",
+      "text": "LECTURE Chapter 12: Operating System Design, pp1041-1082 in Tannenbaum, 5th ed., paper",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch12.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 19
+    },
+    {
+      "id": "b119a67269",
+      "text": "LECTURE Tanenbaum and Bos, slides for ch2",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch2.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 20
+    },
+    {
+      "id": "fbeb0b3f7f",
+      "text": "emacs reference card",
+      "href": "https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 21
+    },
+    {
+      "id": "1836828bec",
+      "text": "endian.c with one correction and one expansion",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/endian.c",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 22
+    },
+    {
+      "id": "c92d5a2d6c",
+      "text": "Wikipedia has picture of memory layouts for Endianness",
+      "href": "https://en.wikipedia.org/wiki/Endianness",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 23
+    },
+    {
+      "id": "7de2178411",
+      "text": "Grammar for C Code from K&R Appendix B",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/GrammarApB.pdf",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "resources",
+      "minor": false,
+      "order": 24
+    },
+    {
+      "id": "1cb4fa2ab5",
+      "text": "textbk for Grammar, as of 5Feb see internet archive version of Kernighan and Ritchie (K&R) The C Programming Language, 1988, Ap A13 pages 235-239",
+      "href": "https://archive.org/details/the-ansi-c-programming-language-by-brian-w.-kernighan-dennis-m.-ritchie.org",
+      "color": "#0000ff",
+      "tone": "reference",
+      "toneLabel": "External textbook / reference",
+      "category": "resources",
+      "minor": false,
+      "order": 25
+    },
+    {
+      "id": "2d13ba5007",
+      "text": "FIELD trip to server rm and Unix lab is Tues Nov 10 (was Oct 30 last semester) last half hour of class",
+      "href": null,
+      "color": "#dd0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "resources",
+      "minor": false,
+      "order": 26
+    },
+    {
+      "id": "87027a7283",
+      "text": "Tue Nov18: wikipedia for Popek and Goldberg, 1974 paper",
+      "href": "https://en.wikipedia.org/wiki/Popek_and_Goldberg_virtualization_requirements",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "resources",
+      "minor": false,
+      "order": 27
+    }
+  ],
+  "syllabus": {
+    "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep20POSTED.pdf",
+    "hash": "f0cb3660c39af4ad9feddb22f6556cb938e9c179",
+    "revisionLine": "20 Sep 2026 Rev1",
+    "checkedAt": "2026-09-21T20:04:18.404Z"
+  },
+  "syllabusChanged": false,
+  "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
+}

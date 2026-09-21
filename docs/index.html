@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CS 444</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🖥️</text></svg>" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1>CS444 <span class="muted">— Intro to Operating Systems</span></h1>
+    <p class="subtitle">Making <a href="https://www.cs.umb.edu/~hdeblois/cs444/f26/" target="_blank" rel="noopener">Prof. DeBlois's course page</a>, more readable. Updated twice a day.</p>
+  </div>
+</header>
+
+<div id="banner-slot"></div>
+
+<nav class="tabs-sticky">
+  <div class="tabs" id="tabs">
+    <button class="tab-btn active" data-tab="syllabus">Syllabus</button>
+    <button class="tab-btn" data-tab="schedule">Schedule</button>
+    <button class="tab-btn" data-tab="homework">Homework</button>
+    <button class="tab-btn" data-tab="slides">Slides &amp; Lectures</button>
+    <button class="tab-btn" data-tab="resources">Resources</button>
+  </div>
+</nav>
+
+<main id="app">
+  <section id="panel-syllabus" class="panel active"></section>
+  <section id="panel-schedule" class="panel"></section>
+  <section id="panel-homework" class="panel"></section>
+  <section id="panel-slides" class="panel"></section>
+  <section id="panel-resources" class="panel"></section>
+</main>
+
+<footer class="footer">
+  <p>Last scraped: <span id="scraped-at">—</span> · <a id="source-link" href="#" target="_blank" rel="noopener">view her original page</a></p>
+  <p class="tiny">Made by student, plz double check any important info!</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

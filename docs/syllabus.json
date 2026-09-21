@@ -1,0 +1,141 @@
+{
+  "revision": "20 Sep 2026 Rev1",
+  "revisionNote": "Rev1 increased Attendance's grading weight to match how mandatory attendance is described elsewhere in the syllabus.",
+  "sourceNote": "Hand-transcribed from syll444f26sep20POSTED.pdf. Covers everything except the week-by-week plan — see the Schedule tab for that.",
+  "sections": [
+    {
+      "heading": "Course info",
+      "type": "fields",
+      "fields": [
+        { "label": "Instructor", "value": "Dr. J. Holly DeBlois" },
+        { "label": "Office", "value": "McCormack, 3rd floor, room M-3-201-32 · 617-287-6490" },
+        { "label": "Office hours", "value": "12:30–1:30pm Tue, Wed, Thu" },
+        { "label": "Lectures — section 01", "value": "Tue & Thu, 2:00–3:15, Wheatley-Peters W01-0005" },
+        { "label": "Lectures — section 02", "value": "Tue & Thu, 5:30–6:45, Wheatley-Peters W01-0004" },
+        { "label": "Email", "value": "jane.deblois@umb.edu" },
+        { "label": "Grades", "value": "Posted on Canvas, linked to Gradescope" },
+        { "label": "Graders", "value": "Ernesto BrauMonteverde and Prentice Tang" },
+        { "label": "Portal", "value": "Register for the course directory at portal.cs.umb.edu" },
+        { "label": "Piazza", "value": "piazza.com/umb/fall2026/cs444" },
+        { "label": "Oral tests", "value": "Sign-up required — test1: 30 min, taken in pairs · test2: 20 min, individual" }
+      ]
+    },
+    {
+      "heading": "Grading breakdown",
+      "type": "list",
+      "note": "Rev1 (20 Sep 2026) raised Attendance's weight — see the note above.",
+      "items": [
+        "C — C code programming projects (4 of them) — 32%",
+        "H — Homework assignments (3 of them) — 20%",
+        "T — Oral tests (2 of them) — 20%",
+        "A — Attendance — 10%",
+        "G — Grammar of C, in-class handwritten — 5%",
+        "S — Server access & CLI skills, in-class on-server — 3%",
+        "E — Editing with Emacs, in-class on-server — 3%",
+        "D — Diagrams of OS abstractions, in-class handwritten — 3%",
+        "P — Participation — 2%",
+        "U — Use case, in-class photo of readMe — 1%",
+        "M — MINIX3 code identification, in-class handwritten — 1%"
+      ]
+    },
+    {
+      "heading": "Grade scale",
+      "type": "table",
+      "rows": [
+        ["93 and up", "A"],
+        ["90 – 92", "A-"],
+        ["87 – 89", "B+"],
+        ["83 – 86", "B"],
+        ["80 – 82", "B-"],
+        ["77 – 79", "C+"],
+        ["73 – 76", "C"],
+        ["70 – 72", "C-"],
+        ["67 – 69", "D+"],
+        ["63 – 66", "D"],
+        ["60 – 62", "D-"],
+        ["under 60", "F"]
+      ]
+    },
+    {
+      "heading": "Attendance",
+      "type": "list",
+      "intro": "Mandatory. You're allowed to miss 5 classes with no penalty.",
+      "items": [
+        "Miss 6 or 7 classes → lose 1 letter-grade step (e.g. B → B-)",
+        "Miss more than 7 → lose 2 letter-grade steps (e.g. B → C+)",
+        "Being late or leaving class early/for long stretches lowers participation points",
+        "Need more excused absences? You must submit documentation"
+      ]
+    },
+    {
+      "heading": "C code projects — 4 parts each",
+      "type": "list",
+      "items": [
+        "Create a subdirectory \"proj<n>\" in your course directory",
+        "Handwrite the required <starter>.c code in class and submit it",
+        "Start your readMe in class (name, student id, use case, design) and keep adding to it — record each work session, what was hard, and cite sources including AI",
+        "Build your C code incrementally on the server (gcc or Makefile) with ≥2 saved prior versions of each file"
+      ]
+    },
+    {
+      "heading": "Homework — 3 parts each",
+      "type": "list",
+      "items": [
+        "Create a subdirectory \"hw<n>\" in your course directory",
+        "In class: handwrite + Emacs-type hw<n>.txt on the server",
+        "Upload hw<n>.pdf, including photos of handwritten drawings"
+      ]
+    },
+    {
+      "heading": "AI use-case options (for C code projects)",
+      "type": "list",
+      "items": [
+        "Case 1 — none: no AI used; cite any traditional sources or copied code",
+        "Case 2 — ahead: AI used only for design before coding, not for the code itself",
+        "Case 3 — during: AI used to fix broken code, with START/END markers + prompt around generated sections",
+        "Case 4 — entire: AI generated the whole assignment; you must supply handwritten tests/comments proving you understand it and may be called in to demo"
+      ]
+    },
+    {
+      "heading": "AI policy",
+      "type": "list",
+      "items": [
+        "Allowed on C code projects — mark generated sections with START/END and the prompt used, and list the LLM(s) you used in your readMe",
+        "NOT allowed for generating homework answers (mostly handwritten/photographed)",
+        "Any AI-generated material must be cited (in-text + appendix with full generated text) — uncited use counts as academic dishonesty",
+        "Software similarity to other students' code or generated code above 45% (MOSS) earns 0 points"
+      ]
+    },
+    {
+      "heading": "Avoid losing points",
+      "type": "list",
+      "items": [
+        "Use \"cp -p\" or \"scp -p\" to copy files — never \"mv\", which can break permissions",
+        "Check files with \"ls -la\"; Linux is case-sensitive (\"HW1\" ≠ \"hw1\")",
+        "Keep enough server disk space — check with \"du -h\"; VSCode alone isn't enough, you must compile/run on the server",
+        "Submit required incrementals (dated prior versions) with your project code, matching your readMe's session notes",
+        "Late penalty: 1% per hour, down to half the score. Late test arrival = proportionately lower score"
+      ]
+    },
+    {
+      "heading": "Textbooks",
+      "type": "list",
+      "items": [
+        "Modern Operating Systems, 5th ed. (Tanenbaum & Bos) — ch1–12, purchase or rent",
+        "The C Programming Language, 2nd ed. (Kernighan & Ritchie) — free via archive.org",
+        "Operating Systems Design and Implementation, 3rd ed. (Tanenbaum & Woodhull) — library reserve or purchase/rent, MINIX3 source in Ap B",
+        "GNU Emacs editor — gnu.org/software/emacs"
+      ]
+    },
+    {
+      "heading": "Support & accommodations",
+      "type": "list",
+      "items": [
+        "Ross Center (disability accommodations) — ross.center@umb.edu · 617-287-7430",
+        "Emotional distress line (24/7 licensed clinician) — 617-287-5690",
+        "Here4U — campus questions/issues, via the UMass Boston app or umb.edu/here4U",
+        "Dean of Students Office — umb.edu/deanofstudents"
+      ]
+    }
+  ]
+}
