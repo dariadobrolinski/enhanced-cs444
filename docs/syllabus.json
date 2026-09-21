@@ -25,17 +25,17 @@
       "type": "list",
       "note": "Rev1 (20 Sep 2026) raised Attendance's weight — see the note above.",
       "items": [
-        "C — C code programming projects (4 of them) — 32%",
-        "H — Homework assignments (3 of them) — 20%",
-        "T — Oral tests (2 of them) — 20%",
-        "A — Attendance — 10%",
-        "G — Grammar of C, in-class handwritten — 5%",
-        "S — Server access & CLI skills, in-class on-server — 3%",
-        "E — Editing with Emacs, in-class on-server — 3%",
-        "D — Diagrams of OS abstractions, in-class handwritten — 3%",
-        "P — Participation — 2%",
-        "U — Use case, in-class photo of readMe — 1%",
-        "M — MINIX3 code identification, in-class handwritten — 1%"
+        "C code programming projects (4 of them) — 32%",
+        "Homework assignments (3 of them) — 20%",
+        "Oral tests (2 of them) — 20%",
+        "Attendance — 10%",
+        "Grammar of C, in-class handwritten — 5%",
+        "Server access & CLI skills, in-class on-server — 3%",
+        "Editing with Emacs, in-class on-server — 3%",
+        "Diagrams of OS abstractions, in-class handwritten — 3%",
+        "Participation — 2%",
+        "Use case, in-class photo of readMe — 1%",
+        "MINIX3 code identification, in-class handwritten — 1%"
       ]
     },
     {
