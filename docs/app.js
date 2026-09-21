@@ -210,9 +210,11 @@ function renderSchedule(schedule) {
   parts.push(`<div class="schedule-meta">${escapeHtml(schedule.term)} · ${escapeHtml(schedule.course)}<br>Syllabus revision: ${escapeHtml(schedule.syllabusRevision)}</div>`);
 
   for (const week of schedule.weeks) {
-    const weekAnchor = week.week === currentWeekNum ? ` id="current-week"` : "";
+    const isCurrent = week.week === currentWeekNum;
+    const weekAnchor = isCurrent ? ` id="current-week"` : "";
     parts.push(`<div class="week-block" data-week="${week.week}"${weekAnchor}>`);
-    parts.push(`<p class="week-label">Week ${week.week}</p>`);
+    parts.push(`<button class="week-toggle${isCurrent ? " is-open" : ""}" type="button" data-toggle="week-${week.week}">Week ${week.week}</button>`);
+    parts.push(`<div class="week-body${isCurrent ? " open" : ""}">`);
     for (const s of week.sessions) {
       const sessionDate = new Date(s.date + "T00:00:00");
       const isToday = sessionDate.getTime() === today.getTime();
@@ -235,7 +237,8 @@ function renderSchedule(schedule) {
         ${activities ? `<ul class="activities">${activities}</ul>` : ""}
       </div>`);
     }
-    parts.push(`</div>`);
+    parts.push(`</div>`); // .week-body
+    parts.push(`</div>`); // .week-block
   }
 
   return parts.join("\n");
