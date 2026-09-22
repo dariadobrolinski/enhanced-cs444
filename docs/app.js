@@ -330,6 +330,7 @@ async function main() {
   const slideDates = buildItemDates(slideItems, schedule);
 
   document.getElementById("panel-homework").innerHTML = renderCategory(data, "homework");
+  document.getElementById("panel-projects").innerHTML = renderCategory(data, "projects");
   document.getElementById("panel-slides").innerHTML = renderCategory(data, "slides", slideDates);
   document.getElementById("panel-resources").innerHTML = renderCategory(data, "resources");
   document.getElementById("panel-schedule").innerHTML = renderSchedule(schedule);

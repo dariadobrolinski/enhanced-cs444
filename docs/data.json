@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-22T16:04:33.071Z",
+  "scrapedAt": "2026-09-22T18:31:02.418Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -289,6 +289,17 @@
       "order": 25
     },
     {
+      "id": "f73ed48da8",
+      "text": "proj1",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1.pdf",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "projects",
+      "minor": false,
+      "order": 26
+    },
+    {
       "id": "2d13ba5007",
       "text": "FIELD trip to server rm and Unix lab is Tues Nov 10 (was Oct 30 last semester) last half hour of class",
       "href": null,
@@ -297,7 +308,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 26
+      "order": 27
     },
     {
       "id": "87027a7283",
@@ -308,14 +319,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 27
+      "order": 28
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep20POSTED.pdf",
     "hash": "f0cb3660c39af4ad9feddb22f6556cb938e9c179",
     "revisionLine": "20 Sep 2026 Rev1",
-    "checkedAt": "2026-09-22T16:04:33.071Z"
+    "checkedAt": "2026-09-22T18:31:02.415Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"

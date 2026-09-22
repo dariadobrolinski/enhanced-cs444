@@ -41,6 +41,9 @@ function classify(text, href) {
   if (/\bhw\d*\b/.test(t) || /^hw\d/.test(h) || t.includes("homework")) {
     return "homework";
   }
+  if (/\bproj\d*\b/.test(t) || /^proj\d/.test(h)) {
+    return "projects";
+  }
   if (
     t.includes("lecture") ||
     t.includes("slides") ||
