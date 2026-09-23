@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-22T18:31:26.901Z",
+  "scrapedAt": "2026-09-23T01:01:02.005Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
-      "id": "59d78873c1",
-      "text": "Syllabus reposted 20 Sep 2026 to correct Attendance weight in grading",
-      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep20POSTED.pdf",
+      "id": "a04ce1c939",
+      "text": "Syllabus reposted 22 Sep 2026 to correct Attendance weight in grading and fix schedule",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
       "color": "#ff0000",
       "tone": "urgent",
       "toneLabel": "Important update or correction",
@@ -323,11 +323,11 @@
     }
   ],
   "syllabus": {
-    "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep20POSTED.pdf",
-    "hash": "f0cb3660c39af4ad9feddb22f6556cb938e9c179",
-    "revisionLine": "20 Sep 2026 Rev1",
-    "checkedAt": "2026-09-22T18:31:26.900Z"
+    "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
+    "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
+    "revisionLine": "22 Sep 2026 Rev2",
+    "checkedAt": "2026-09-23T01:01:02.005Z"
   },
-  "syllabusChanged": false,
+  "syllabusChanged": true,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
 }
