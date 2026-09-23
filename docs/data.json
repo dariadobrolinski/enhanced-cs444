@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-23T01:01:02.005Z",
+  "scrapedAt": "2026-09-23T15:13:38.170Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -326,8 +326,8 @@
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
     "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
     "revisionLine": "22 Sep 2026 Rev2",
-    "checkedAt": "2026-09-23T01:01:02.005Z"
+    "checkedAt": "2026-09-23T15:13:38.169Z"
   },
-  "syllabusChanged": true,
+  "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
 }
