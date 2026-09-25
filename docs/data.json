@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-24T15:34:58.770Z",
+  "scrapedAt": "2026-09-25T01:00:23.751Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -234,8 +234,8 @@
       "order": 20
     },
     {
-      "id": "fbeb0b3f7f",
-      "text": "emacs reference card",
+      "id": "ef5bc1f63d",
+      "text": "emacs reference card - type emacs -nw to start command line version",
       "href": "https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf",
       "color": null,
       "tone": "normal",
@@ -289,6 +289,17 @@
       "order": 25
     },
     {
+      "id": "69eba8074f",
+      "text": "proj1 rev1 to fix refs to huff.c",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1-rev1.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "projects",
+      "minor": false,
+      "order": 26
+    },
+    {
       "id": "f73ed48da8",
       "text": "proj1",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1.pdf",
@@ -297,7 +308,18 @@
       "toneLabel": null,
       "category": "projects",
       "minor": false,
-      "order": 26
+      "order": 27
+    },
+    {
+      "id": "fc563f1b01",
+      "text": "ch3 slides Memory Management",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch3.pdf",
+      "color": null,
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "slides",
+      "minor": false,
+      "order": 28
     },
     {
       "id": "2d13ba5007",
@@ -308,7 +330,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 27
+      "order": 29
     },
     {
       "id": "87027a7283",
@@ -319,14 +341,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 28
+      "order": 30
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
     "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
     "revisionLine": "22 Sep 2026 Rev2",
-    "checkedAt": "2026-09-24T15:34:58.770Z"
+    "checkedAt": "2026-09-25T01:00:23.751Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
