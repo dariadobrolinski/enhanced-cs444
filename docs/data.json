@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-01T01:39:20.892Z",
+  "scrapedAt": "2026-10-01T17:10:49.599Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -311,15 +311,59 @@
       "order": 27
     },
     {
-      "id": "fc563f1b01",
-      "text": "ch3 slides Memory Management",
+      "id": "6bc7e21ea4",
+      "text": "LECTURE ch3 slides for Memory Management",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch3.pdf",
-      "color": null,
-      "tone": "normal",
-      "toneLabel": null,
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
       "category": "slides",
       "minor": false,
       "order": 28
+    },
+    {
+      "id": "544d91c8cf",
+      "text": "LECTURE slides for ch4 File Systems Oct 1",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch4.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 29
+    },
+    {
+      "id": "912ee69343",
+      "text": "Reading p75 from Tanenbaum and Bos regarding pointers",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/oct1-ptr-code-TBOS-p75-ch1.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "resources",
+      "minor": false,
+      "order": 30
+    },
+    {
+      "id": "65e856d611",
+      "text": "Use the terminal to display oct 1 code running",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/oct1_StoryOfPointers.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "resources",
+      "minor": false,
+      "order": 31
+    },
+    {
+      "id": "1e93f0cec9",
+      "text": "code: oct1.c",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/oct1.txt",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "resources",
+      "minor": false,
+      "order": 32
     },
     {
       "id": "2d13ba5007",
@@ -330,7 +374,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 29
+      "order": 33
     },
     {
       "id": "87027a7283",
@@ -341,14 +385,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 30
+      "order": 34
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
     "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
     "revisionLine": "22 Sep 2026 Rev2",
-    "checkedAt": "2026-10-01T01:39:20.891Z"
+    "checkedAt": "2026-10-01T17:10:49.599Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
