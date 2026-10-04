@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-03T14:58:54.435Z",
+  "scrapedAt": "2026-10-04T02:12:33.741Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -289,8 +289,8 @@
       "order": 25
     },
     {
-      "id": "69eba8074f",
-      "text": "proj1 rev1 to fix refs to huff.c",
+      "id": "82ddde530f",
+      "text": "***proj1 duedate extended: NOW due Sunday, 4 Oct at 11:59pm***",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1-rev1.pdf",
       "color": "#ff0000",
       "tone": "urgent",
@@ -300,15 +300,26 @@
       "order": 26
     },
     {
-      "id": "f73ed48da8",
-      "text": "proj1",
-      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1.pdf",
-      "color": null,
-      "tone": "normal",
-      "toneLabel": null,
+      "id": "69eba8074f",
+      "text": "proj1 rev1 to fix refs to huff.c",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1-rev1.pdf",
+      "color": "#dd0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
       "category": "projects",
       "minor": false,
       "order": 27
+    },
+    {
+      "id": "f73ed48da8",
+      "text": "proj1",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1.pdf",
+      "color": "#990000",
+      "tone": "stale",
+      "toneLabel": "Superseded (older/delayed version)",
+      "category": "projects",
+      "minor": false,
+      "order": 28
     },
     {
       "id": "6bc7e21ea4",
@@ -319,7 +330,7 @@
       "toneLabel": "Lecture / slides",
       "category": "slides",
       "minor": false,
-      "order": 28
+      "order": 29
     },
     {
       "id": "544d91c8cf",
@@ -330,7 +341,7 @@
       "toneLabel": "Lecture / slides",
       "category": "slides",
       "minor": false,
-      "order": 29
+      "order": 30
     },
     {
       "id": "912ee69343",
@@ -341,7 +352,7 @@
       "toneLabel": "Lecture / slides",
       "category": "resources",
       "minor": false,
-      "order": 30
+      "order": 31
     },
     {
       "id": "65e856d611",
@@ -352,7 +363,7 @@
       "toneLabel": "Lecture / slides",
       "category": "resources",
       "minor": false,
-      "order": 31
+      "order": 32
     },
     {
       "id": "1e93f0cec9",
@@ -363,36 +374,47 @@
       "toneLabel": "Lecture / slides",
       "category": "resources",
       "minor": false,
-      "order": 32
+      "order": 33
+    },
+    {
+      "id": "82ddde530f",
+      "text": "***proj1 duedate extended: NOW due Sunday, 4 Oct at 11:59pm***",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj1-rev1.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "projects",
+      "minor": false,
+      "order": 34
     },
     {
       "id": "2d13ba5007",
       "text": "FIELD trip to server rm and Unix lab is Tues Nov 10 (was Oct 30 last semester) last half hour of class",
       "href": null,
-      "color": "#dd0000",
-      "tone": "urgent",
-      "toneLabel": "Important update or correction",
+      "color": "#0000ff",
+      "tone": "reference",
+      "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 33
+      "order": 35
     },
     {
       "id": "87027a7283",
       "text": "Tue Nov18: wikipedia for Popek and Goldberg, 1974 paper",
       "href": "https://en.wikipedia.org/wiki/Popek_and_Goldberg_virtualization_requirements",
-      "color": "#ff0000",
-      "tone": "urgent",
-      "toneLabel": "Important update or correction",
+      "color": "#0000ff",
+      "tone": "reference",
+      "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 34
+      "order": 36
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
     "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
     "revisionLine": "22 Sep 2026 Rev2",
-    "checkedAt": "2026-10-03T14:58:54.435Z"
+    "checkedAt": "2026-10-04T02:12:33.740Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
