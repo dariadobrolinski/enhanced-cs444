@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-08T02:21:16.193Z",
+  "scrapedAt": "2026-10-08T17:38:22.921Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -410,6 +410,28 @@
       "order": 36
     },
     {
+      "id": "d649bcde35",
+      "text": "MINIX3 drivers",
+      "href": "https://wiki.minix3.org/doku.php?id=developersguide:overviewofminixdrivers",
+      "color": "#990099",
+      "tone": "stale",
+      "toneLabel": "Superseded (older version)",
+      "category": "resources",
+      "minor": false,
+      "order": 37
+    },
+    {
+      "id": "8a5ab2ffb4",
+      "text": "Cort's lecture: MINIX3 drivers",
+      "href": "https://www.minix3.org/conference/2016/slides/Cort.pdf",
+      "color": "#990099",
+      "tone": "stale",
+      "toneLabel": "Superseded (older version)",
+      "category": "slides",
+      "minor": false,
+      "order": 38
+    },
+    {
       "id": "2d13ba5007",
       "text": "FIELD trip to server rm and Unix lab is Tues Nov 10 (was Oct 30 last semester) last half hour of class",
       "href": null,
@@ -418,7 +440,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 37
+      "order": 39
     },
     {
       "id": "87027a7283",
@@ -429,14 +451,14 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 38
+      "order": 40
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
     "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
     "revisionLine": "22 Sep 2026 Rev2",
-    "checkedAt": "2026-10-08T02:21:16.193Z"
+    "checkedAt": "2026-10-08T17:38:22.921Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
