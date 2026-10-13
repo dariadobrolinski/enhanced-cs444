@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-13T03:15:42.317Z",
+  "scrapedAt": "2026-10-13T17:50:32.571Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -432,6 +432,39 @@
       "order": 38
     },
     {
+      "id": "f8e7383551",
+      "text": "LECTURE: Hamming slides for Tues Oct 13",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/HammingLecture.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 39
+    },
+    {
+      "id": "a2e28cfa47",
+      "text": "Endianness - wikipedia",
+      "href": "https://en.wikipedia.org/wiki/Endianness",
+      "color": "#990099",
+      "tone": "stale",
+      "toneLabel": "Superseded (older version)",
+      "category": "resources",
+      "minor": false,
+      "order": 40
+    },
+    {
+      "id": "4398450b70",
+      "text": "ECC - wikipedia",
+      "href": "https://en.wikipedia.org/wiki/Error_correction_code",
+      "color": "#990099",
+      "tone": "stale",
+      "toneLabel": "Superseded (older version)",
+      "category": "resources",
+      "minor": false,
+      "order": 41
+    },
+    {
       "id": "2d13ba5007",
       "text": "FIELD trip to server rm and Unix lab is Tues Nov 10 (was Oct 30 last semester) last half hour of class",
       "href": null,
@@ -440,7 +473,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 39
+      "order": 42
     },
     {
       "id": "87027a7283",
@@ -451,14 +484,14 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 40
+      "order": 43
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
     "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
     "revisionLine": "22 Sep 2026 Rev2",
-    "checkedAt": "2026-10-13T03:15:42.317Z"
+    "checkedAt": "2026-10-13T17:50:32.570Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
