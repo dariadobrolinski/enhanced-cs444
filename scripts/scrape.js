@@ -97,7 +97,29 @@ async function scrapeHomepage() {
     });
   });
 
-  return items;
+  return demoteUnsupersededStale(items);
+}
+
+// Her dark colors (#990000 / #990099) used to only mark old versions of a
+// reposted hw/proj, but since Oct she also uses them for brand-new posts
+// (hw2, MINIX3 drivers, ...). So color alone isn't enough: an item only
+// counts as superseded if something current exists for the same hw/proj/ch.
+// Mirrors GROUP_KEY_RE in docs/app.js.
+const GROUP_KEY_RE = /\b(hw|proj|ch)-?(\d+)\b/i;
+function demoteUnsupersededStale(items) {
+  const groupKey = (it) => {
+    const m = GROUP_KEY_RE.exec(`${it.text} ${it.href || ""}`);
+    return m ? `${m[1].toLowerCase()}${m[2]}` : null;
+  };
+  const currentKeys = new Set(
+    items.filter((it) => it.tone !== "stale").map(groupKey).filter(Boolean)
+  );
+  return items.map((it) => {
+    if (it.tone !== "stale") return it;
+    const key = groupKey(it);
+    if (key && currentKeys.has(key)) return it;
+    return { ...it, tone: "normal", toneLabel: null };
+  });
 }
 
 async function checkSyllabus(items) {
