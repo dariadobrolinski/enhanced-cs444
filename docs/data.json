@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-16T15:03:57.360Z",
+  "scrapedAt": "2026-10-17T00:53:54.759Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -476,6 +476,17 @@
       "order": 42
     },
     {
+      "id": "7245c85e5e",
+      "text": "proj2 -TYPOS corrected- due Sat 31 Oct 2026 11:59pm",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj2REPOSTED.pdf",
+      "color": "#990000",
+      "tone": "stale",
+      "toneLabel": "Superseded (older/delayed version)",
+      "category": "projects",
+      "minor": false,
+      "order": 43
+    },
+    {
       "id": "fcd2caec2a",
       "text": "LECTURE: slides for Thur Oct 15",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/Lecture.pdf",
@@ -484,7 +495,7 @@
       "toneLabel": "Lecture / slides",
       "category": "slides",
       "minor": false,
-      "order": 43
+      "order": 44
     },
     {
       "id": "2d13ba5007",
@@ -495,7 +506,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 44
+      "order": 45
     },
     {
       "id": "87027a7283",
@@ -506,14 +517,14 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 45
+      "order": 46
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26sep22POSTED.pdf",
     "hash": "f03de1c1023aabca9f6af39eba21084af2c3675e",
     "revisionLine": "22 Sep 2026 Rev2",
-    "checkedAt": "2026-10-16T15:03:57.360Z"
+    "checkedAt": "2026-10-17T00:53:54.758Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
