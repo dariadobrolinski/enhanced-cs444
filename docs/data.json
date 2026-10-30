@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-30T02:14:52.854Z",
+  "scrapedAt": "2026-10-30T16:50:59.236Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -542,37 +542,15 @@
       "order": 48
     },
     {
-      "id": "e20aca6d84",
-      "text": "proj2 due Sat 31 Oct 2026 11:59pm",
-      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj2POSTED.pdf",
-      "color": "#227700",
-      "tone": "lecture",
-      "toneLabel": "Lecture / slides",
-      "category": "projects",
-      "minor": false,
-      "order": 49
-    },
-    {
-      "id": "671852dd6d",
-      "text": "proj2 -one more typo corrected- due Sat 31 Oct 2026 11:59pm",
+      "id": "0cb8213a3c",
+      "text": "NOW DUE Sun 1 Nov at 11:59pm!  proj2 -one more typo corrected- due Sat 31 Oct 2026 11:59pm",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj2REREPOSTED.pdf",
       "color": "#ff0000",
       "tone": "urgent",
       "toneLabel": "Important update or correction",
       "category": "projects",
       "minor": false,
-      "order": 50
-    },
-    {
-      "id": "7245c85e5e",
-      "text": "proj2 -TYPOS corrected- due Sat 31 Oct 2026 11:59pm",
-      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj2REPOSTED.pdf",
-      "color": "#990000",
-      "tone": "stale",
-      "toneLabel": "Superseded (older/delayed version)",
-      "category": "projects",
-      "minor": false,
-      "order": 51
+      "order": 49
     },
     {
       "id": "295a306dc2",
@@ -583,7 +561,7 @@
       "toneLabel": "Lecture / slides",
       "category": "slides",
       "minor": false,
-      "order": 52
+      "order": 50
     },
     {
       "id": "451280b704",
@@ -594,7 +572,7 @@
       "toneLabel": "Lecture / slides",
       "category": "resources",
       "minor": false,
-      "order": 53
+      "order": 51
     },
     {
       "id": "13a5d9d29d",
@@ -605,7 +583,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 54
+      "order": 52
     },
     {
       "id": "6b54c04e86",
@@ -616,18 +594,7 @@
       "toneLabel": "Lecture / slides",
       "category": "slides",
       "minor": false,
-      "order": 55
-    },
-    {
-      "id": "6f84213273",
-      "text": "LECTURE: ch7",
-      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch7.pdf",
-      "color": "#227700",
-      "tone": "lecture",
-      "toneLabel": "Lecture / slides",
-      "category": "slides",
-      "minor": false,
-      "order": 56
+      "order": 53
     },
     {
       "id": "309f9808af",
@@ -638,7 +605,7 @@
       "toneLabel": "Lecture / slides",
       "category": "resources",
       "minor": false,
-      "order": 57
+      "order": 54
     },
     {
       "id": "41e7ec892b",
@@ -649,7 +616,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 58
+      "order": 55
     },
     {
       "id": "074bf4b2f7",
@@ -660,7 +627,18 @@
       "toneLabel": null,
       "category": "resources",
       "minor": false,
-      "order": 59
+      "order": 56
+    },
+    {
+      "id": "fc77d901ee",
+      "text": "LECTURE: ch7 for Thurs 29 Oct plus discussion of proj1 grading",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch7.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "projects",
+      "minor": false,
+      "order": 57
     },
     {
       "id": "e4ddfc0eb6",
@@ -671,7 +649,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 60
+      "order": 58
     },
     {
       "id": "227ed6f969",
@@ -682,7 +660,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 61
+      "order": 59
     },
     {
       "id": "2d13ba5007",
@@ -693,7 +671,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 62
+      "order": 60
     },
     {
       "id": "fdc162b7be",
@@ -704,7 +682,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 63
+      "order": 61
     },
     {
       "id": "87027a7283",
@@ -715,7 +693,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 64
+      "order": 62
     },
     {
       "id": "f7743270a3",
@@ -726,7 +704,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 65
+      "order": 63
     },
     {
       "id": "022f917578",
@@ -737,7 +715,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 66
+      "order": 64
     },
     {
       "id": "f2898afb1d",
@@ -748,7 +726,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 67
+      "order": 65
     },
     {
       "id": "db3fedaa23",
@@ -759,14 +737,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 68
+      "order": 66
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-10-30T02:14:52.854Z"
+    "checkedAt": "2026-10-30T16:50:59.235Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
