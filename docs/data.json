@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-29T17:10:30.579Z",
+  "scrapedAt": "2026-10-30T02:14:52.854Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -619,6 +619,17 @@
       "order": 55
     },
     {
+      "id": "6f84213273",
+      "text": "LECTURE: ch7",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch7.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 56
+    },
+    {
       "id": "309f9808af",
       "text": "Review Oct 22 (this now offers the review document again)",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/t1review-f26.pdf",
@@ -627,7 +638,7 @@
       "toneLabel": "Lecture / slides",
       "category": "resources",
       "minor": false,
-      "order": 56
+      "order": 57
     },
     {
       "id": "41e7ec892b",
@@ -638,7 +649,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 57
+      "order": 58
     },
     {
       "id": "074bf4b2f7",
@@ -649,7 +660,7 @@
       "toneLabel": null,
       "category": "resources",
       "minor": false,
-      "order": 58
+      "order": 59
     },
     {
       "id": "e4ddfc0eb6",
@@ -660,7 +671,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 59
+      "order": 60
     },
     {
       "id": "227ed6f969",
@@ -671,7 +682,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 60
+      "order": 61
     },
     {
       "id": "2d13ba5007",
@@ -682,7 +693,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 61
+      "order": 62
     },
     {
       "id": "fdc162b7be",
@@ -693,7 +704,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 62
+      "order": 63
     },
     {
       "id": "87027a7283",
@@ -704,7 +715,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 63
+      "order": 64
     },
     {
       "id": "f7743270a3",
@@ -715,7 +726,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 64
+      "order": 65
     },
     {
       "id": "022f917578",
@@ -726,7 +737,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 65
+      "order": 66
     },
     {
       "id": "f2898afb1d",
@@ -737,7 +748,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 66
+      "order": 67
     },
     {
       "id": "db3fedaa23",
@@ -748,14 +759,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 67
+      "order": 68
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-10-29T17:10:30.579Z"
+    "checkedAt": "2026-10-30T02:14:52.854Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
