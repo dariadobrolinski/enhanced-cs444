@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-03T18:08:52.021Z",
+  "scrapedAt": "2026-11-04T02:48:27.502Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -652,6 +652,72 @@
       "order": 58
     },
     {
+      "id": "090372a761",
+      "text": "hw3 posted Tues 3 Nov - due Tues 10 Nov at 11:59pm - submit to course directory in subdir hw3 - please ignore wrong dates on assignment - you must handwrite the timeline in problem1 and handwrite the proof in problem 3 - no use of AI is allowed on this hw",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/hw3-f26-nov3.pdf",
+      "color": "#990099",
+      "tone": "normal",
+      "toneLabel": null,
+      "category": "homework",
+      "minor": false,
+      "order": 59
+    },
+    {
+      "id": "a68a0764e6",
+      "text": "LECTURE: queuing",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/queueing.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 60
+    },
+    {
+      "id": "19ef1e4175",
+      "text": "LECTURE: posixthreads",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/posixthreads.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 61
+    },
+    {
+      "id": "a9406c5269",
+      "text": "notes geometric distribution, p108",
+      "href": "https://www.britannica.com/topic/geometric-distribution",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "resources",
+      "minor": false,
+      "order": 62
+    },
+    {
+      "id": "bbf2555644",
+      "text": "proof memorylessness",
+      "href": "https://en.wikipedia.org/wiki/Memorylessness",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "resources",
+      "minor": false,
+      "order": 63
+    },
+    {
+      "id": "41b665470a",
+      "text": "LECTURE: ch8 Multiple Processor Systems",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch8.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 64
+    },
+    {
       "id": "227ed6f969",
       "text": "Week 10:",
       "href": null,
@@ -660,7 +726,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 59
+      "order": 65
     },
     {
       "id": "2d13ba5007",
@@ -671,7 +737,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 60
+      "order": 66
     },
     {
       "id": "fdc162b7be",
@@ -682,7 +748,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 61
+      "order": 67
     },
     {
       "id": "87027a7283",
@@ -693,7 +759,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 62
+      "order": 68
     },
     {
       "id": "f7743270a3",
@@ -704,7 +770,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 63
+      "order": 69
     },
     {
       "id": "022f917578",
@@ -715,7 +781,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 64
+      "order": 70
     },
     {
       "id": "f2898afb1d",
@@ -726,7 +792,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 65
+      "order": 71
     },
     {
       "id": "db3fedaa23",
@@ -737,14 +803,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 66
+      "order": 72
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-03T18:08:52.020Z"
+    "checkedAt": "2026-11-04T02:48:27.501Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
