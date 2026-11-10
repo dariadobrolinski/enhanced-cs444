@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-10T04:24:19.159Z",
+  "scrapedAt": "2026-11-10T18:21:10.709Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -740,6 +740,39 @@
       "order": 66
     },
     {
+      "id": "3e8ce9a81b",
+      "text": "proj3 - posted tues 10 nov - due tues 24 nov 2026 11:59pm",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj3_f26.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "projects",
+      "minor": false,
+      "order": 67
+    },
+    {
+      "id": "d192fcb18c",
+      "text": "readMe.txt required for proj3",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj3-f26-444.readMe.txt",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "projects",
+      "minor": false,
+      "order": 68
+    },
+    {
+      "id": "6ec5d00835",
+      "text": "Code required for proj3",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/nov12.c",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "projects",
+      "minor": false,
+      "order": 69
+    },
+    {
       "id": "2d13ba5007",
       "text": "FIELD trip to server rm and Unix lab is Tues Nov 10 (was Oct 30 last semester) last half hour of class",
       "href": null,
@@ -748,7 +781,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 67
+      "order": 70
     },
     {
       "id": "fdc162b7be",
@@ -759,7 +792,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 68
+      "order": 71
     },
     {
       "id": "87027a7283",
@@ -770,7 +803,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 69
+      "order": 72
     },
     {
       "id": "f7743270a3",
@@ -781,7 +814,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 70
+      "order": 73
     },
     {
       "id": "022f917578",
@@ -792,7 +825,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 71
+      "order": 74
     },
     {
       "id": "f2898afb1d",
@@ -803,7 +836,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 72
+      "order": 75
     },
     {
       "id": "db3fedaa23",
@@ -814,14 +847,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 73
+      "order": 76
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-10T04:24:19.158Z"
+    "checkedAt": "2026-11-10T18:21:10.708Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
