@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-10T18:21:10.709Z",
+  "scrapedAt": "2026-11-11T02:20:41.398Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -762,9 +762,9 @@
       "order": 68
     },
     {
-      "id": "6ec5d00835",
-      "text": "Code required for proj3",
-      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/nov12.c",
+      "id": "98f52dfce4",
+      "text": "Code required for proj3 - write a small C code program with comments that shows you understand the ideas of counting environment variables and printing out pointers and pointers to pointers as illustrated in the bsh.c code given; write your program on the server in your proj3 dir, compile and run. Due tonight at 11:59pm.",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/nov10.c",
       "color": "#227700",
       "tone": "lecture",
       "toneLabel": "Lecture / slides",
@@ -854,7 +854,7 @@
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-10T18:21:10.708Z"
+    "checkedAt": "2026-11-11T02:20:41.398Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
