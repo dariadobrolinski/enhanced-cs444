@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T03:28:33.184Z",
+  "scrapedAt": "2026-11-12T18:38:27.898Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -784,6 +784,39 @@
       "order": 70
     },
     {
+      "id": "9e68fb0d84",
+      "text": "LECTURE: ch9 Security",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch9.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 71
+    },
+    {
+      "id": "9e68fb0d84",
+      "text": "LECTURE: ch9 Security",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch9.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 72
+    },
+    {
+      "id": "5a32f4d38b",
+      "text": "Linux distributions",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/linuxDist.svg",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "resources",
+      "minor": false,
+      "order": 73
+    },
+    {
       "id": "fdc162b7be",
       "text": "Week 11:",
       "href": null,
@@ -792,7 +825,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 71
+      "order": 74
     },
     {
       "id": "87027a7283",
@@ -803,7 +836,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 72
+      "order": 75
     },
     {
       "id": "f7743270a3",
@@ -814,7 +847,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 73
+      "order": 76
     },
     {
       "id": "022f917578",
@@ -825,7 +858,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 74
+      "order": 77
     },
     {
       "id": "f2898afb1d",
@@ -836,7 +869,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 75
+      "order": 78
     },
     {
       "id": "db3fedaa23",
@@ -847,14 +880,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 76
+      "order": 79
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-12T03:28:33.183Z"
+    "checkedAt": "2026-11-12T18:38:27.898Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
