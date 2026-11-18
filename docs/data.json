@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-17T19:27:57.687Z",
+  "scrapedAt": "2026-11-18T03:55:50.059Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -861,8 +861,8 @@
       "order": 77
     },
     {
-      "id": "7286f7472f",
-      "text": ".pdf document with Prompt to get C code translated to tokens, C grammar derivation and abstract syntax tree",
+      "id": "4820aecfb6",
+      "text": "On-server.pdf due Wed nov18 at 11:59pm - name it grLNov18x.pdf or grLNov19x.pdf - Use Prompt to get C code translated to tokens, C grammar derivation and abstract syntax tree",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/grLNov14x.pdf",
       "color": "#0000ff",
       "tone": "reference",
@@ -960,9 +960,9 @@
       "order": 86
     },
     {
-      "id": "31cd2c3786",
+      "id": "8a47a518e4",
       "text": "Android layers",
-      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/android.pdf",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/android.jpg",
       "color": "#227700",
       "tone": "lecture",
       "toneLabel": "Lecture / slides",
@@ -1041,7 +1041,7 @@
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-17T19:27:57.687Z"
+    "checkedAt": "2026-11-18T03:55:50.059Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
