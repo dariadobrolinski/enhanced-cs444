@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-24T06:34:15.568Z",
+  "scrapedAt": "2026-11-24T20:55:20.215Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -941,9 +941,9 @@
       "id": "92b14959db",
       "text": "Linux layers",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/linux.pdf",
-      "color": "#227700",
-      "tone": "lecture",
-      "toneLabel": "Lecture / slides",
+      "color": "#ff00ff",
+      "tone": "normal",
+      "toneLabel": null,
       "category": "resources",
       "minor": false,
       "order": 85
@@ -960,37 +960,114 @@
       "order": 86
     },
     {
-      "id": "8a47a518e4",
-      "text": "Android layers",
+      "id": "c8129cf264",
+      "text": "Android layers - lower left drivers: USB, keypad and WiFi",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/android.jpg",
-      "color": "#227700",
-      "tone": "lecture",
-      "toneLabel": "Lecture / slides",
+      "color": "#ff00ff",
+      "tone": "normal",
+      "toneLabel": null,
       "category": "resources",
       "minor": false,
       "order": 87
     },
     {
-      "id": "101eb835ce",
-      "text": "BradyVideo",
+      "id": "27e3c01f6d",
+      "text": "BradyVideo  - Physiology starts at min 43, runtime anatomy at 33 \"real magic\"",
       "href": "https://www.youtube.com/watch?v=G-36noTCaiA",
-      "color": "#227700",
-      "tone": "lecture",
-      "toneLabel": "Lecture / slides",
+      "color": "#ff00ff",
+      "tone": "normal",
+      "toneLabel": null,
       "category": "resources",
       "minor": false,
       "order": 88
     },
     {
-      "id": "87027a7283",
-      "text": "Tue Nov18: wikipedia for Popek and Goldberg, 1974 paper",
+      "id": "01cb8b135c",
+      "text": "Lecture for Thurs, Nov 19: remainder of Ch9 Security",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ch9.pdf",
+      "color": "#227700",
+      "tone": "lecture",
+      "toneLabel": "Lecture / slides",
+      "category": "slides",
+      "minor": false,
+      "order": 89
+    },
+    {
+      "id": "ad829c1ecf",
+      "text": "Week 12",
+      "href": null,
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "resources",
+      "minor": false,
+      "order": 90
+    },
+    {
+      "id": "1f5519834c",
+      "text": "Patrick Brady Profile",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/PatrickBradyProfile.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "resources",
+      "minor": false,
+      "order": 91
+    },
+    {
+      "id": "370c4aa3b8",
+      "text": "ch11 - windows - 59 slides",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/chapter11.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "slides",
+      "minor": false,
+      "order": 92
+    },
+    {
+      "id": "91c91c48ca",
+      "text": "vmware more - promotional",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/slidesvmware1f23.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "resources",
+      "minor": false,
+      "order": 93
+    },
+    {
+      "id": "37c2fc072e",
+      "text": "chapter comparisons for T&B ch10 and ch11",
+      "href": null,
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "resources",
+      "minor": false,
+      "order": 94
+    },
+    {
+      "id": "3f696da4ac",
+      "text": "chapter comparisons MINIX textbook vs T&B regular textbook",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/ComparisonOfChapters.jpg",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "resources",
+      "minor": false,
+      "order": 95
+    },
+    {
+      "id": "6879f58320",
+      "text": "wikipedia for Popek and Goldberg, 1974 paper",
       "href": "https://en.wikipedia.org/wiki/Popek_and_Goldberg_virtualization_requirements",
       "color": "#0000ff",
       "tone": "reference",
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 89
+      "order": 96
     },
     {
       "id": "f7743270a3",
@@ -1001,18 +1078,7 @@
       "toneLabel": "External textbook / reference",
       "category": "resources",
       "minor": false,
-      "order": 90
-    },
-    {
-      "id": "022f917578",
-      "text": "Week 12:",
-      "href": null,
-      "color": "#ff0000",
-      "tone": "urgent",
-      "toneLabel": "Important update or correction",
-      "category": "resources",
-      "minor": false,
-      "order": 91
+      "order": 97
     },
     {
       "id": "f2898afb1d",
@@ -1023,7 +1089,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 92
+      "order": 98
     },
     {
       "id": "db3fedaa23",
@@ -1034,14 +1100,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 93
+      "order": 99
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-24T06:34:15.567Z"
+    "checkedAt": "2026-11-24T20:55:20.215Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
