@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-25T05:08:13.627Z",
+  "scrapedAt": "2026-11-25T20:17:31.132Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -740,8 +740,8 @@
       "order": 66
     },
     {
-      "id": "3e8ce9a81b",
-      "text": "proj3 - posted tues 10 nov - due tues 24 nov 2026 11:59pm",
+      "id": "20b2538bd3",
+      "text": "proj3 - posted tues 10 nov - EXTENDED 24 HOURS due tues 24 nov 2026 11:59pm -- NOW DUE WED 24NOV 11:59pm",
       "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj3_f26.pdf",
       "color": "#ff0000",
       "tone": "urgent",
@@ -1037,9 +1037,9 @@
       "order": 93
     },
     {
-      "id": "37c2fc072e",
+      "id": "ec9feda8ae",
       "text": "chapter comparisons for T&B ch10 and ch11",
-      "href": null,
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/comparison.pdf",
       "color": "#ff0000",
       "tone": "urgent",
       "toneLabel": "Important update or correction",
@@ -1107,7 +1107,7 @@
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-25T05:08:13.627Z"
+    "checkedAt": "2026-11-25T20:17:31.132Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
