@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-27T19:43:18.868Z",
+  "scrapedAt": "2026-11-28T04:23:21.593Z",
   "sourceUrl": "https://www.cs.umb.edu/~hdeblois/cs444/f26/",
   "items": [
     {
@@ -1081,6 +1081,17 @@
       "order": 97
     },
     {
+      "id": "4490dd77f9",
+      "text": "proj4 - posted Fri 27 Nov 2026 - Due Thu 10 Dec 2026 at 11:59pm; files to copy in will be posted tomorrow; we will go over the proj4 in class on Tue",
+      "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/proj4f26POSTED.pdf",
+      "color": "#ff0000",
+      "tone": "urgent",
+      "toneLabel": "Important update or correction",
+      "category": "projects",
+      "minor": false,
+      "order": 98
+    },
+    {
       "id": "f2898afb1d",
       "text": "Week 13:",
       "href": null,
@@ -1089,7 +1100,7 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 98
+      "order": 99
     },
     {
       "id": "db3fedaa23",
@@ -1100,14 +1111,14 @@
       "toneLabel": "Important update or correction",
       "category": "resources",
       "minor": false,
-      "order": 99
+      "order": 100
     }
   ],
   "syllabus": {
     "href": "https://www.cs.umb.edu/~hdeblois/cs444/f26/syll444f26oct20REV3POSTED.pdf",
     "hash": "24a59717d671f5647ea0a2762449aaa8edecc5b6",
     "revisionLine": "20 Oct 2026 Rev3",
-    "checkedAt": "2026-11-27T19:43:18.868Z"
+    "checkedAt": "2026-11-28T04:23:21.593Z"
   },
   "syllabusChanged": false,
   "scheduleConfirmedFor": "f0cb3660c39af4ad9feddb22f6556cb938e9c179"
